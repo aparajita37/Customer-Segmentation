@@ -1,5 +1,5 @@
-# Customer-Segmentation
-I have used Unsupervised ML Algorithms like PCA, t-SNE, K-Means Clustering and K-Medoids to form useful clusters of the customers of a given company
+# Customer Segmentation
+I have used Unsupervised ML Algorithms like PCA, t-SNE, K-Means Clustering and K-Medoids to form useful clusters of the customers of a given retailer.
 
 Context
 Customer segmentation is the process of dividing a dataset of customers into groups of similar customers based on certain common characteristics, usually for the purpose of understanding the population dataset in a better fashion. Customer segmentation is often viewed as a means to achieve a better return on investment from marketing efforts. Typically, the variables of interest are customer profiles, campaign conversion rates, and information associated with various marketing channels. Based on these feature categories, the target is to create the best possible customer segments from the given data.
